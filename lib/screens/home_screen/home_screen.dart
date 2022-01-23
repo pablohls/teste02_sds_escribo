@@ -38,7 +38,7 @@ class _HomeScreenState extends State<HomeScreen> {
       appBar: AppBar(
         centerTitle: true,
         title: const Text(
-          'Seleção de Desenvolvedor de Software Escribo - Teste Técnico 2',
+          'SDS Escribo - Teste Técnico 2',
           style: TextStyle(fontSize: 12),
         ),
       ),
