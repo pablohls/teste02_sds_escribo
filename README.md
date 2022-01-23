@@ -8,7 +8,7 @@ Para a segunda tarefa, foi solicitado o desenvolvimento de uma aplicação que s
 o jogo indiano “Cobras e Escadas".
 
 Nas instruções enviadas no guia para o teste, foi solicitado que a aplicação rodasse
-em dispositivos Android. Levando em conta está necessidade, aproveitei de uma das
+em dispositivos Android. Levando em conta esta necessidade, aproveitei de uma das
 vantagens do Flutter e desenvolvi um Web App, hospedei o mesmo em um projeto no FireBase
 e dessa forma o resultado pode ser avaliado e testado em qualquer navegador, seja em
 dispositivos Android, seja em dispositivos IOS.
